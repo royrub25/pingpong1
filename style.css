@@ -35,3 +35,8 @@
     display: inline-block;
     width: 45%;
 }
+
+video
+{
+    background-size: cover;
+}
